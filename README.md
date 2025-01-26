@@ -39,11 +39,11 @@ The Higher-Lower Instagram Followers Game allows players to test their knowledge
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/higher-lower-game.git
+   git clone https://github.com/RahulRmCoder/Higher-Lower-Game.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd higher-lower-game
+   cd Higher-Lower-Game
    ```
 3. Ensure Python 3.x is installed on your system.
 4. Run the game script:
